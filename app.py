@@ -541,6 +541,25 @@ with tab3:
             master_catalog.to_csv(index=False),
             "master_catalog.csv"
         )
+        st.metric(
+        "Mission Status",
+        "ONLINE"
+    )
+
+    st.markdown("""
+### Objective
+
+Detect solar flares from SoLEXS observations,
+analyze HEL1OS event data,
+generate a unified catalogue,
+and forecast future flare activity using Machine Learning.
+""")
+
+    st.markdown("""
+### GitHub Repository
+
+https://github.com/ganeshpnsb/ISROFLARE
+""")
     st.markdown("""
 # About ISROGENZ
 
