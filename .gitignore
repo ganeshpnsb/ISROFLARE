@@ -1,0 +1,9 @@
+*.fits
+*.gz
+*.zip
+
+HLS_20260616_115959_43192sec_lev1_V111/
+solexs_data/
+
+__pycache__/
+.ipynb_checkpoints/
