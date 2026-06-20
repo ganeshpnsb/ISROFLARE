@@ -555,11 +555,7 @@ generate a unified catalogue,
 and forecast future flare activity using Machine Learning.
 """)
 
-    st.markdown("""
-### GitHub Repository
 
-https://github.com/ganeshpnsb/ISROFLARE
-""")
     st.markdown("""
 # About ISROGENZ
 
